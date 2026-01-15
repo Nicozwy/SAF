@@ -9,10 +9,9 @@ pip install torch==2.2
 pip install git+https://ghproxy.com/https://github.com/huggingface/diffusers
 ```
 ## Guidelines
-- Search.py is a search for evidence online.
-- Filter.py is to screen the evidence twice
-- Train.py is a training model file.
-- Model.py is model file.
+- search.py is a search for evidence online.
+- filter.py is to screen the evidence twice
+- train.py is a training model file.
 - Dataset_modify.py isto modify the text or picture of the data with a true label to make it false.
 
 # Image 
