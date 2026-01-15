@@ -14,5 +14,5 @@ pip install git+https://ghproxy.com/https://github.com/huggingface/diffusers
 - Train.py is a training model file.
 - Dataset_modify.py isto modify the text or picture of the data with a true label to make it false.
 
-# Image (可编辑链接)
-https://drive.google.com/file/d/1sDtP-8YDh8rFjP9MhnagTGFNgC06Od9-/view?usp=sharing 
+# Image 
+(assets/images/img.png)
