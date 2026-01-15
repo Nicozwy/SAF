@@ -16,4 +16,4 @@ pip install git+https://ghproxy.com/https://github.com/huggingface/diffusers
 - Dataset_modify.py isto modify the text or picture of the data with a true label to make it false.
 
 # Image 
-![图片](https://github.com/你的用户名/仓库名/raw/main/assets/images/logo.png))
+![图片](assets/img.png)
