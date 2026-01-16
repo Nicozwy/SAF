@@ -1,6 +1,6 @@
 # SAF
-This partial source code of SAF.
-
+This partial source code of SAF, the complete code will be publicly available upon acceptance.
+![图片](assets/img.png)
 
 # Getting Started
 Install torch=2.2 and diffusers for picture modification.
@@ -14,5 +14,4 @@ pip install git+https://ghproxy.com/https://github.com/huggingface/diffusers
 - train.py is a training model file.
 - Dataset_modify.py isto modify the text or picture of the data with a true label to make it false.
 
-# Image 
-![图片](assets/img.png)
+
